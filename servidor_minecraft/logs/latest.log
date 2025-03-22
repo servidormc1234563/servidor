@@ -281,3 +281,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [22Mar2025 23:03:25.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Snake
 [22Mar2025 23:05:10.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Dungeon Now Loading]
 [22Mar2025 23:06:31.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Monster Hunter]
+[22Mar2025 23:09:04.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was shot by Skeleton
+[22Mar2025 23:10:57.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Zombie
+[22Mar2025 23:11:44.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was shot by Skeleton
+[22Mar2025 23:12:39.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Zombie
+[22Mar2025 23:13:25.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Spider
+[22Mar2025 23:17:23.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=66, z=45} BlockPos{x=-67, y=65, z=44}
