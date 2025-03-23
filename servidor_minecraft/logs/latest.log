@@ -370,3 +370,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Mar2025 16:24:18.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
 [23Mar2025 16:24:18.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
 [23Mar2025 16:29:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Best Friends Forever]
+[23Mar2025 16:37:14.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of sergiosssssss) moved wrongly! 0.2544684305486484
+[23Mar2025 16:41:23.180] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c1a83c7[id=<null>,name=caradesalchicha,properties={},legacy=false] (/127.54.255.13:59329) lost connection: Disconnected
+[23Mar2025 16:41:37.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:43689] logged in with entity id 31117 at (-49.41293515722739, 62.0, 26.392919900577205)
+[23Mar2025 16:41:37.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[23Mar2025 16:41:37.715] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[23Mar2025 16:41:43.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Not Today, Thank You]
+[23Mar2025 16:42:08.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Voluntary Exile]
+[23Mar2025 16:42:21.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=64, z=0} BlockPos{x=-83, y=63, z=-1}
+[23Mar2025 16:42:21.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=64, z=0} BlockPos{x=-83, y=63, z=-1}
+[23Mar2025 16:42:21.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=64, z=0} BlockPos{x=-83, y=63, z=-1}
+[23Mar2025 16:42:21.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=64, z=0} BlockPos{x=-83, y=63, z=-1}
+[23Mar2025 16:42:27.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-86, y=65, z=4} BlockPos{x=-85, y=63, z=2}
