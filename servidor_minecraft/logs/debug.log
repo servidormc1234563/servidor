@@ -3665,3 +3665,63 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Mar2025 15:41:42.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was blown up by Creeper
 [23Mar2025 15:41:43.591] [Server thread/DEBUG] [twilightforest/]: Player caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5) respawned and received items held in storage
 [23Mar2025 15:41:49.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> eso
+[23Mar2025 15:43:33.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 15:43:33.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 15:48:33.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 15:48:33.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 15:50:20.612] [Worker-Main-26/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[23Mar2025 15:50:31.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[23Mar2025 15:51:00.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Mar2025 15:51:13.663] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Mar2025 15:51:13.669] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Mar2025 15:51:13.703] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Mar2025 15:51:13.704] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Mar2025 15:51:13.723] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Mar2025 15:51:13.727] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Mar2025 15:51:23.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Mar2025 15:51:34.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> las zanahorias?
+[23Mar2025 15:51:40.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> las plante
+[23Mar2025 15:51:54.704] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[23Mar2025 15:51:54.713] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[23Mar2025 15:51:54.749] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[23Mar2025 15:51:54.754] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[23Mar2025 15:51:54.754] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[23Mar2025 15:51:54.812] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[23Mar2025 15:51:59.517] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[23Mar2025 15:51:59.518] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[23Mar2025 15:51:59.752] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[23Mar2025 15:51:59.753] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[23Mar2025 15:51:59.772] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[23Mar2025 15:52:25.178] [Worker-Main-26/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-1084 | 65 | 564).
+[23Mar2025 15:52:25.181] [Worker-Main-26/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[23Mar2025 15:52:25.184] [Worker-Main-26/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[23Mar2025 15:52:25.184] [Worker-Main-26/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[23Mar2025 15:52:25.184] [Worker-Main-26/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[23Mar2025 15:52:25.184] [Worker-Main-26/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[23Mar2025 15:52:25.185] [Worker-Main-26/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(4) Nodes and 5(0) Rooms
+[23Mar2025 15:52:25.185] [Worker-Main-26/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[23Mar2025 15:52:25.185] [Worker-Main-26/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(2) Nodes and 5(0) Rooms
+[23Mar2025 15:52:25.185] [Worker-Main-26/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[23Mar2025 15:52:25.186] [Worker-Main-26/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(1) Nodes and 5(0) Rooms
+[23Mar2025 15:52:25.198] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeoncrawl:dungeon took 400 ms
+[23Mar2025 15:53:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Mar2025 15:53:35.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 15:53:35.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 15:53:53.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Mar2025 15:55:55.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> duermaaaaa
+[23Mar2025 15:55:58.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Zombie
+[23Mar2025 15:56:00.311] [Server thread/DEBUG] [twilightforest/]: Player sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b) respawned and received items held in storage
+[23Mar2025 15:56:02.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> voy
+[23Mar2025 15:56:11.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> zzz
+[23Mar2025 15:56:12.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> zzzzzzzzzzzzzzzz
+[23Mar2025 15:56:14.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 15:56:16.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> zzzzzzzzzzzzzzzzzzz
+[23Mar2025 15:56:20.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> duerma
+[23Mar2025 15:58:35.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 15:58:35.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 15:58:53.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [Suit Up]
+[23Mar2025 16:01:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Skeleton
+[23Mar2025 16:01:33.420] [Server thread/DEBUG] [twilightforest/]: Player caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5) respawned and received items held in storage
+[23Mar2025 16:01:55.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Skeleton
+[23Mar2025 16:01:57.535] [Server thread/DEBUG] [twilightforest/]: Player caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5) respawned and received items held in storage
+[23Mar2025 16:02:01.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
