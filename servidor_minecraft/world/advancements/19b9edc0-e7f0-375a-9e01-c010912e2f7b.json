@@ -276,6 +276,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-22 23:13:16 +0000",
       "minecraft:spider": "2025-03-22 23:06:31 +0000",
+      "minecraft:creeper": "2025-03-23 16:21:20 +0000",
       "minecraft:enderman": "2025-03-23 01:50:19 +0000",
       "minecraft:zombie": "2025-03-22 23:07:24 +0000"
     },
@@ -1836,6 +1837,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-23 16:24:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-03-23 16:15:22 +0000"
@@ -1847,6 +1854,12 @@
       "has_spider_eye": "2025-03-23 15:42:32 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-03-23 16:24:05 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {

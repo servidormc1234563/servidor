@@ -366,3 +366,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Mar2025 16:21:06.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [The Parrots and the Bats]
 [23Mar2025 16:21:59.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> zzzzzzzz
 [23Mar2025 16:22:06.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> deme comida
+[23Mar2025 16:24:05.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [The Parrots and the Bats]
+[23Mar2025 16:24:18.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[23Mar2025 16:24:18.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[23Mar2025 16:29:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Best Friends Forever]
