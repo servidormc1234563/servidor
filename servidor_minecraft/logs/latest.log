@@ -336,3 +336,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Mar2025 22:26:12.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:45645] logged in with entity id 6510 at (-3.545518018181632, 7.0, -115.22282807048568)
 [23Mar2025 22:26:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
 [23Mar2025 22:26:13.103] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[23Mar2025 22:27:41.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Mar2025 22:29:43.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Mar2025 22:33:30.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was blown up by Creeper
+[23Mar2025 22:33:46.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3433ms or 68 ticks behind
+[23Mar2025 22:34:46.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
