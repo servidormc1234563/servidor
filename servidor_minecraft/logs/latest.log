@@ -439,3 +439,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Mar2025 18:12:09.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha moved too quickly! 371.99497987747606,58.07840000152588,-373.11325678079555
 [23Mar2025 18:13:00.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [A Seedy Place]
 [23Mar2025 18:14:13.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was blown up by Creeper
+[23Mar2025 18:16:17.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was doomed to fall by sergiosssssss
+[23Mar2025 18:17:21.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Zombie
+[23Mar2025 18:19:32.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Zombie
+[23Mar2025 18:19:41.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Mar2025 18:20:07.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Mar2025 18:20:26.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[23Mar2025 18:20:26.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[23Mar2025 18:20:38.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Zombie
+[23Mar2025 18:21:17.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was blown up by Creeper
+[23Mar2025 18:21:35.223] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46833c96[id=<null>,name=caradesalchicha,properties={},legacy=false] (/127.54.255.13:35823) lost connection: Disconnected
+[23Mar2025 18:21:51.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
+[23Mar2025 18:21:51.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[23Mar2025 18:22:24.070] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@126e2a33[id=<null>,name=caradesalchicha,properties={},legacy=false] (/127.54.255.13:47913) lost connection: Disconnected
+[23Mar2025 18:22:43.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:58387] logged in with entity id 49291 at (-11.634271009481605, 32.0, 88.69999998807907)
+[23Mar2025 18:22:43.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[23Mar2025 18:22:43.615] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
