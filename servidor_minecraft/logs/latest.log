@@ -27,3 +27,5 @@
 [23Mar2025 00:56:38.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.167.8.25:55703] logged in with entity id 12967 at (-29.4683637585527, 65.0, 10.061364355075982)
 [23Mar2025 00:56:38.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
 [23Mar2025 00:56:38.608] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[23Mar2025 01:12:34.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[23Mar2025 01:12:34.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
