@@ -40,3 +40,22 @@
 [23Mar2025 01:57:04.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was shot by Skeleton
 [23Mar2025 01:57:54.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Zombie
 [23Mar2025 01:58:18.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Zombie
+[23Mar2025 02:02:40.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[23Mar2025 02:02:40.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[23Mar2025 02:03:07.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=64, z=9} BlockPos{x=-101, y=62, z=9}
+[23Mar2025 02:03:07.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=64, z=9} BlockPos{x=-101, y=62, z=9}
+[23Mar2025 02:05:14.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:43331] logged in with entity id 24247 at (-47.30000001192093, 64.0, 42.30000001192093)
+[23Mar2025 02:05:14.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[23Mar2025 02:05:14.711] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[23Mar2025 02:08:23.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [A Seedy Place]
+[23Mar2025 02:14:00.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=64, z=13} BlockPos{x=-97, y=62, z=13}
+[23Mar2025 02:14:00.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=64, z=13} BlockPos{x=-97, y=62, z=13}
+[23Mar2025 02:14:01.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=64, z=13} BlockPos{x=-97, y=62, z=13}
+[23Mar2025 02:14:01.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=64, z=13} BlockPos{x=-97, y=62, z=13}
+[23Mar2025 02:14:01.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=64, z=13} BlockPos{x=-97, y=62, z=13}
+[23Mar2025 02:14:01.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=64, z=13} BlockPos{x=-97, y=62, z=13}
+[23Mar2025 02:14:01.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-100, y=63, z=11} BlockPos{x=-97, y=62, z=13}
+[23Mar2025 02:14:01.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-100, y=63, z=11} BlockPos{x=-97, y=62, z=13}
+[23Mar2025 02:14:01.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=64, z=11} BlockPos{x=-103, y=62, z=11}
+[23Mar2025 02:16:45.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Mar2025 02:18:26.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
