@@ -273,3 +273,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Mar2025 14:49:40.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
 [23Mar2025 14:49:41.113] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
 [23Mar2025 14:53:53.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=69, z=-9} BlockPos{x=-16, y=66, z=-12}
+[23Mar2025 15:06:15.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=64, z=13} BlockPos{x=-64, y=63, z=14}
+[23Mar2025 15:09:33.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:38879] logged in with entity id 3394 at (-46.30000001192093, 62.0, 23.316239107994623)
+[23Mar2025 15:09:33.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[23Mar2025 15:09:33.716] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[23Mar2025 15:11:00.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> kakkakkak
+[23Mar2025 15:11:32.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by sergiosssssss
+[23Mar2025 15:12:01.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by sergiosssssss
