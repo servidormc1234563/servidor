@@ -429,3 +429,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Mar2025 18:02:18.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> 40 -45 177
 [23Mar2025 18:03:19.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
 [23Mar2025 18:03:58.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Mar2025 18:04:24.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
+[23Mar2025 18:05:14.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Diamonds!]
+[23Mar2025 18:05:15.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Mar2025 18:10:18.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Mar2025 18:10:26.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Mar2025 18:11:49.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7762ms or 155 ticks behind
+[23Mar2025 18:11:49.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha moved too quickly! -369.91840469517507,-57.92159999847412,373.6769703268342
+[23Mar2025 18:12:09.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha moved too quickly! 371.99497987747606,58.07840000152588,-373.11325678079555
+[23Mar2025 18:13:00.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [A Seedy Place]
+[23Mar2025 18:14:13.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was blown up by Creeper
