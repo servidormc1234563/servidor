@@ -333,3 +333,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Mar2025 22:13:32.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
 [23Mar2025 22:16:13.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
 [23Mar2025 22:16:13.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[23Mar2025 22:26:12.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:45645] logged in with entity id 6510 at (-3.545518018181632, 7.0, -115.22282807048568)
+[23Mar2025 22:26:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[23Mar2025 22:26:13.103] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
