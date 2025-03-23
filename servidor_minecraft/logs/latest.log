@@ -312,3 +312,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Mar2025 21:44:18.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: The difficulty has been set to Hard]
 [23Mar2025 21:44:30.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> discord
 [23Mar2025 21:45:21.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> discord
+[23Mar2025 21:47:13.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: You logged in from another location
+[23Mar2025 21:47:13.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[23Mar2025 21:47:13.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.167.8.25:52593] logged in with entity id 1392 at (-0.6890320530180821, 65.0, 63.457652614296485)
+[23Mar2025 21:47:13.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[23Mar2025 21:47:13.338] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[23Mar2025 21:49:05.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [Voluntary Exile]
+[23Mar2025 22:02:27.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=21, z=-18} BlockPos{x=-7, y=23, z=-12}
+[23Mar2025 22:02:29.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=21, z=-18} BlockPos{x=-7, y=22, z=-12}
+[23Mar2025 22:02:29.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=21, z=-18} BlockPos{x=-8, y=21, z=-12}
+[23Mar2025 22:02:29.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=21, z=-18} BlockPos{x=-8, y=22, z=-11}
+[23Mar2025 22:02:31.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=21, z=-18} BlockPos{x=-7, y=22, z=-12}
+[23Mar2025 22:02:31.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=21, z=-18} BlockPos{x=-7, y=23, z=-12}
+[23Mar2025 22:02:31.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=21, z=-18} BlockPos{x=-7, y=23, z=-13}
+[23Mar2025 22:02:34.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=21, z=-18} BlockPos{x=-7, y=21, z=-13}
+[23Mar2025 22:02:35.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=21, z=-18} BlockPos{x=-6, y=23, z=-14}
