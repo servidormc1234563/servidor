@@ -94,10 +94,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-03-23 17:43:35 +0000",
       "log_spam_fixer": "2025-03-22 23:01:40 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:adventure/root": {
     "criteria": {
