@@ -1,19 +1,19 @@
-[23Mar2025 14:42:22.602] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[23Mar2025 14:42:22.607] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[23Mar2025 14:42:25.353] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[23Mar2025 14:42:25.590] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[23Mar2025 14:42:26.481] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[23Mar2025 14:42:26.485] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[23Mar2025 14:42:26.491] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[23Mar2025 14:42:26.498] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[23Mar2025 14:42:26.855] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[23Mar2025 14:42:34.156] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[23Mar2025 14:42:34.333] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[23Mar2025 14:42:34.747] [main/WARN] [mixin/]: Reference map 'mixins.dungeons_plus.refmap.json' for mixins.dungeons_plus.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 14:42:37.721] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[23Mar2025 14:42:48.700] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000, already redirected by dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000
-[23Mar2025 14:42:49.928] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@704067c6 on thread Thread[modloading-worker-0,5,main]
-[23Mar2025 14:42:49.930] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[23Mar2025 21:36:05.661] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[23Mar2025 21:36:05.668] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[23Mar2025 21:36:09.108] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[23Mar2025 21:36:09.438] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[23Mar2025 21:36:11.022] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[23Mar2025 21:36:11.026] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Mar2025 21:36:11.031] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Mar2025 21:36:11.041] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Mar2025 21:36:11.810] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[23Mar2025 21:36:19.452] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23Mar2025 21:36:19.730] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[23Mar2025 21:36:20.203] [main/WARN] [mixin/]: Reference map 'mixins.dungeons_plus.refmap.json' for mixins.dungeons_plus.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 21:36:26.355] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[23Mar2025 21:36:45.233] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000, already redirected by dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000
+[23Mar2025 21:36:46.898] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@704067c6 on thread Thread[modloading-worker-0,5,main]
+[23Mar2025 21:36:46.900] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -61,22 +61,22 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[23Mar2025 14:42:49.936] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[23Mar2025 14:42:50.489] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
-[23Mar2025 14:42:50.490] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[23Mar2025 14:42:50.900] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[23Mar2025 14:42:50.900] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[23Mar2025 14:42:51.329] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[23Mar2025 14:42:51.332] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[23Mar2025 14:42:52.230] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.56.
-[23Mar2025 14:42:55.056] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[23Mar2025 14:42:55.071] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[23Mar2025 14:42:55.074] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[23Mar2025 14:42:55.077] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[23Mar2025 14:42:55.488] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[23Mar2025 14:42:56.037] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[23Mar2025 14:42:56.430] [main/INFO] [journeymap/]: Initializing Packet Registries
-[23Mar2025 14:42:56.492] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[23Mar2025 21:36:46.923] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[23Mar2025 21:36:47.839] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
+[23Mar2025 21:36:47.854] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[23Mar2025 21:36:48.732] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[23Mar2025 21:36:48.733] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[23Mar2025 21:36:49.339] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[23Mar2025 21:36:49.342] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[23Mar2025 21:36:50.807] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.56.
+[23Mar2025 21:36:56.460] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[23Mar2025 21:36:56.475] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[23Mar2025 21:36:56.478] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[23Mar2025 21:36:56.481] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[23Mar2025 21:36:57.336] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[23Mar2025 21:36:59.184] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[23Mar2025 21:36:59.930] [main/INFO] [journeymap/]: Initializing Packet Registries
+[23Mar2025 21:37:00.072] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -91,37 +91,37 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[23Mar2025 14:42:56.496] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[23Mar2025 14:42:56.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[23Mar2025 14:42:56.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[23Mar2025 14:42:56.698] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[23Mar2025 14:42:56.747] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[23Mar2025 14:42:56.760] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[23Mar2025 14:42:56.793] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[23Mar2025 14:42:56.807] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[23Mar2025 14:42:56.829] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at bl4ckscor3.mod.globalxp.compat.WailaDataProvider
-[23Mar2025 14:42:56.980] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[23Mar2025 14:42:56.980] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[23Mar2025 14:42:57.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[23Mar2025 14:42:57.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[23Mar2025 14:42:57.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[23Mar2025 14:42:57.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
-[23Mar2025 14:42:57.828] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: UP_TO_DATE Current: 5.3.0 Target: null
-[23Mar2025 14:42:57.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[23Mar2025 14:42:57.955] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[23Mar2025 14:42:57.955] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[23Mar2025 14:42:57.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: OUTDATED Current: 3.4.18 Target: 3.4.26
-[23Mar2025 14:43:03.228] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23Mar2025 14:43:06.638] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/assets/.mcassetsroot' uses unexpected schema
-[23Mar2025 14:43:06.640] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/data/.mcassetsroot' uses unexpected schema
-[23Mar2025 14:43:10.214] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:needs_tool_level_1 as it is missing following references: nordic_structures:dwarfcavernspawner_1 (from nordic_structures-1.6.9-forge-1.20.1.jar), 
+[23Mar2025 21:37:00.077] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[23Mar2025 21:37:00.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[23Mar2025 21:37:00.300] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Mar2025 21:37:00.351] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[23Mar2025 21:37:00.383] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[23Mar2025 21:37:00.384] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[23Mar2025 21:37:00.447] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[23Mar2025 21:37:00.469] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[23Mar2025 21:37:00.486] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at bl4ckscor3.mod.globalxp.compat.WailaDataProvider
+[23Mar2025 21:37:00.642] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[23Mar2025 21:37:00.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[23Mar2025 21:37:00.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[23Mar2025 21:37:00.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[23Mar2025 21:37:01.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[23Mar2025 21:37:01.233] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
+[23Mar2025 21:37:01.273] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: UP_TO_DATE Current: 5.3.0 Target: null
+[23Mar2025 21:37:01.281] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[23Mar2025 21:37:01.509] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[23Mar2025 21:37:01.509] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[23Mar2025 21:37:01.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: OUTDATED Current: 3.4.18 Target: 3.4.26
+[23Mar2025 21:37:10.418] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23Mar2025 21:37:16.595] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/assets/.mcassetsroot' uses unexpected schema
+[23Mar2025 21:37:16.597] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/data/.mcassetsroot' uses unexpected schema
+[23Mar2025 21:37:23.192] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.4.6 MC 1.20.1.jar)
+[23Mar2025 21:37:23.594] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:needs_tool_level_1 as it is missing following references: nordic_structures:dwarfcavernspawner_1 (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:dwarfcavernspawner_2 (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:abandonednordicmine_1spawner (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:abandonednordicmine_2spawner (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:steelore (from nordic_structures-1.6.9-forge-1.20.1.jar)
-[23Mar2025 14:43:10.351] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.4.6 MC 1.20.1.jar)
-[23Mar2025 14:43:12.787] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[23Mar2025 14:43:12.815] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[23Mar2025 21:37:27.943] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[23Mar2025 21:37:27.982] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -159,7 +159,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[23Mar2025 14:43:12.833] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[23Mar2025 21:37:28.046] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -188,7 +188,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[23Mar2025 14:43:12.857] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[23Mar2025 21:37:28.099] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23206!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23206!/:?]
@@ -221,237 +221,94 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[23Mar2025 14:43:12.876] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[23Mar2025 14:43:12.885] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[23Mar2025 14:43:12.886] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[23Mar2025 14:43:12.889] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[23Mar2025 14:43:12.891] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[23Mar2025 14:43:12.899] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[23Mar2025 14:43:12.901] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[23Mar2025 14:43:12.903] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
-[23Mar2025 14:43:13.138] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1902 advancements
-[23Mar2025 14:43:13.156] [main/INFO] [Dungeon Crawl/]: Loading data...
-[23Mar2025 14:43:13.641] [main/INFO] [Dungeon Crawl/]: Done.
-[23Mar2025 14:43:13.662] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[23Mar2025 14:43:13.676] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[23Mar2025 14:43:13.686] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[23Mar2025 14:43:16.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[23Mar2025 14:43:16.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[23Mar2025 14:43:16.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[23Mar2025 14:43:16.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[23Mar2025 14:43:16.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[23Mar2025 14:43:16.780] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[23Mar2025 14:43:16.910] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23Mar2025 14:43:16.911] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[23Mar2025 14:43:16.913] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23Mar2025 14:43:16.914] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[23Mar2025 14:43:16.952] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[23Mar2025 14:43:17.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[23Mar2025 14:43:23.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[23Mar2025 14:43:29.791] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:29.815] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:29.829] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:29.836] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:29.847] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:29.852] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:29.861] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:29.876] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:29.882] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:29.912] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:29.935] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:29.950] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:29.981] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:30.494] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:30.976] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:31.475] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:31.972] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:32.473] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 14:43:33.636] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9664 ms
-[23Mar2025 14:43:33.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.702s)! For help, type "help"
-[23Mar2025 14:43:33.708] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[23Mar2025 14:49:40.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.167.8.25:53473] logged in with entity id 195 at (-49.10655883152246, 62.0, 22.07163563134003)
-[23Mar2025 14:49:40.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
-[23Mar2025 14:49:41.113] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
-[23Mar2025 14:53:53.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=69, z=-9} BlockPos{x=-16, y=66, z=-12}
-[23Mar2025 15:06:15.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=64, z=13} BlockPos{x=-64, y=63, z=14}
-[23Mar2025 15:09:33.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:38879] logged in with entity id 3394 at (-46.30000001192093, 62.0, 23.316239107994623)
-[23Mar2025 15:09:33.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
-[23Mar2025 15:09:33.716] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
-[23Mar2025 15:11:00.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> kakkakkak
-[23Mar2025 15:11:32.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by sergiosssssss
-[23Mar2025 15:12:01.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by sergiosssssss
-[23Mar2025 15:13:14.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=65, z=33} BlockPos{x=-73, y=64, z=34}
-[23Mar2025 15:13:17.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by sergiosssssss
-[23Mar2025 15:13:43.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by caradesalchicha
-[23Mar2025 15:14:09.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by sergiosssssss
-[23Mar2025 15:15:07.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by caradesalchicha
-[23Mar2025 15:15:09.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [Acquire Hardware]
-[23Mar2025 15:15:38.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> yaaaa
-[23Mar2025 15:15:43.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> fastidioso
-[23Mar2025 15:15:48.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> usted empezo
-[23Mar2025 15:15:53.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> me faltan un monton de cosas
-[23Mar2025 15:16:07.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> y ami
-[23Mar2025 15:19:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> ya empezo a explotar creper?
-[23Mar2025 15:22:50.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> deme hierro
-[23Mar2025 15:23:40.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> no tengo
-[23Mar2025 15:26:07.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> mi cubooo
-[23Mar2025 15:26:17.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> ese no lo coji
-[23Mar2025 15:26:19.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> yo
-[23Mar2025 15:26:31.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> demelo
-[23Mar2025 15:26:57.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> deme el cub´
-[23Mar2025 15:28:36.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> ayude a traer animales
-[23Mar2025 15:30:36.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> estoy ordenando cofres
-[23Mar2025 15:38:42.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: The difficulty has been set to Hard]
-[23Mar2025 15:39:48.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [Not Today, Thank You]
-[23Mar2025 15:41:42.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was blown up by Creeper
-[23Mar2025 15:41:49.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> eso
-[23Mar2025 15:50:31.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
-[23Mar2025 15:51:00.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
-[23Mar2025 15:51:13.663] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[23Mar2025 15:51:13.669] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[23Mar2025 15:51:13.703] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[23Mar2025 15:51:13.704] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[23Mar2025 15:51:13.723] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[23Mar2025 15:51:13.727] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[23Mar2025 15:51:23.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
-[23Mar2025 15:51:34.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> las zanahorias?
-[23Mar2025 15:51:40.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> las plante
-[23Mar2025 15:51:54.704] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
-[23Mar2025 15:51:54.713] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
-[23Mar2025 15:51:54.749] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
-[23Mar2025 15:51:54.754] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
-[23Mar2025 15:51:54.754] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
-[23Mar2025 15:51:54.812] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
-[23Mar2025 15:51:59.517] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
-[23Mar2025 15:51:59.518] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
-[23Mar2025 15:51:59.752] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
-[23Mar2025 15:51:59.753] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
-[23Mar2025 15:51:59.772] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
-[23Mar2025 15:52:25.198] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeoncrawl:dungeon took 400 ms
-[23Mar2025 15:53:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
-[23Mar2025 15:53:53.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
-[23Mar2025 15:55:55.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> duermaaaaa
-[23Mar2025 15:55:58.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Zombie
-[23Mar2025 15:56:02.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> voy
-[23Mar2025 15:56:11.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> zzz
-[23Mar2025 15:56:12.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> zzzzzzzzzzzzzzzz
-[23Mar2025 15:56:14.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[23Mar2025 15:56:16.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> zzzzzzzzzzzzzzzzzzz
-[23Mar2025 15:56:20.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> duerma
-[23Mar2025 15:58:53.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [Suit Up]
-[23Mar2025 16:01:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Skeleton
-[23Mar2025 16:01:55.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Skeleton
-[23Mar2025 16:02:01.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
-[23Mar2025 16:07:38.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> duermaaaa
-[23Mar2025 16:07:47.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> zzzzzzzzzzz
-[23Mar2025 16:07:52.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> zzzzzzzzzzzzzzzzzzzzzzzz
-[23Mar2025 16:08:11.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was shot by Skeleton
-[23Mar2025 16:12:37.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
-[23Mar2025 16:14:15.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> lag
-[23Mar2025 16:14:44.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> vea
-[23Mar2025 16:14:52.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> ole
-[23Mar2025 16:15:21.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> sergio
-[23Mar2025 16:15:25.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> que
-[23Mar2025 16:15:31.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> tomese esto
-[23Mar2025 16:16:49.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> tome
-[23Mar2025 16:17:02.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> tomese la leche
-[23Mar2025 16:18:05.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> a donde fue
-[23Mar2025 16:18:18.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> a una dungeon pero solo mirte un piso
-[23Mar2025 16:18:58.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> quiere tequila
-[23Mar2025 16:19:26.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> ole
-[23Mar2025 16:19:30.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> no
-[23Mar2025 16:19:42.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> tome sergio
-[23Mar2025 16:20:09.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> que tragon
-[23Mar2025 16:20:51.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> necesita zanahorias?
-[23Mar2025 16:21:06.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [The Parrots and the Bats]
-[23Mar2025 16:21:59.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> zzzzzzzz
-[23Mar2025 16:22:06.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> deme comida
-[23Mar2025 16:24:05.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [The Parrots and the Bats]
-[23Mar2025 16:24:18.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
-[23Mar2025 16:24:18.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
-[23Mar2025 16:29:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Best Friends Forever]
-[23Mar2025 16:37:14.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of sergiosssssss) moved wrongly! 0.2544684305486484
-[23Mar2025 16:41:23.180] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c1a83c7[id=<null>,name=caradesalchicha,properties={},legacy=false] (/127.54.255.13:59329) lost connection: Disconnected
-[23Mar2025 16:41:37.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:43689] logged in with entity id 31117 at (-49.41293515722739, 62.0, 26.392919900577205)
-[23Mar2025 16:41:37.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
-[23Mar2025 16:41:37.715] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
-[23Mar2025 16:41:43.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Not Today, Thank You]
-[23Mar2025 16:42:08.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Voluntary Exile]
-[23Mar2025 16:42:21.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=64, z=0} BlockPos{x=-83, y=63, z=-1}
-[23Mar2025 16:42:21.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=64, z=0} BlockPos{x=-83, y=63, z=-1}
-[23Mar2025 16:42:21.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=64, z=0} BlockPos{x=-83, y=63, z=-1}
-[23Mar2025 16:42:21.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=64, z=0} BlockPos{x=-83, y=63, z=-1}
-[23Mar2025 16:42:27.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-86, y=65, z=4} BlockPos{x=-85, y=63, z=2}
-[23Mar2025 16:44:49.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Ol' Betsy]
-[23Mar2025 16:45:52.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> porfin
-[23Mar2025 16:46:02.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> deme comida
-[23Mar2025 16:46:54.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> que hacemos
-[23Mar2025 16:48:18.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> duerma
-[23Mar2025 16:49:07.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> duermaaaaaaaaaaaaaaaaaaaaaaaaaaa
-[23Mar2025 16:49:32.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
-[23Mar2025 16:49:32.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
-[23Mar2025 16:50:54.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:50517] logged in with entity id 32677 at (-48.278267442590504, 55.0, 0.6396608802289729)
-[23Mar2025 16:50:54.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
-[23Mar2025 16:50:54.959] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
-[23Mar2025 16:51:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> discord
-[23Mar2025 16:53:41.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> discorddddddddddddddddd
-[23Mar2025 16:53:49.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> pere
-[23Mar2025 16:54:00.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> esta en una mina?
-[23Mar2025 16:54:17.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
-[23Mar2025 16:54:17.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
-[23Mar2025 16:56:42.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
-[23Mar2025 16:56:42.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
-[23Mar2025 16:58:33.268] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e19c893[id=<null>,name=caradesalchicha,properties={},legacy=false] (/127.54.255.13:38817) lost connection: Disconnected
-[23Mar2025 16:58:53.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:53745] logged in with entity id 33545 at (-46.30000001192093, 63.0, 26.698050802993446)
-[23Mar2025 16:58:53.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
-[23Mar2025 16:58:53.287] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
-[23Mar2025 17:02:14.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [Isn't It Iron Pick]
-[23Mar2025 17:03:13.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.167.8.25:44955] logged in with entity id 34035 at (-48.92213087269176, 68.0, 17.92306245094892)
-[23Mar2025 17:03:13.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
-[23Mar2025 17:03:13.723] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
-[23Mar2025 17:15:08.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Isn't It Iron Pick]
-[23Mar2025 17:24:25.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
-[23Mar2025 17:24:25.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
-[23Mar2025 17:40:42.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Hot Stuff]
-[23Mar2025 17:40:57.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:34319] logged in with entity id 39738 at (-86.55611287670253, 15.0, -49.11896433821867)
-[23Mar2025 17:40:58.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
-[23Mar2025 17:40:58.086] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
-[23Mar2025 17:44:16.673] [Worker-Main-167/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[23Mar2025 17:44:16.674] [Worker-Main-167/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[23Mar2025 17:44:16.675] [Worker-Main-167/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[23Mar2025 17:44:16.676] [Worker-Main-167/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[23Mar2025 17:44:16.682] [Worker-Main-167/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[23Mar2025 17:44:16.685] [Worker-Main-167/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[23Mar2025 17:44:16.686] [Worker-Main-167/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[23Mar2025 17:44:45.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> 40 -45 177
-[23Mar2025 17:45:36.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was shot by Skeleton
-[23Mar2025 17:52:22.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [Diamonds!]
-[23Mar2025 18:02:18.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> 40 -45 177
-[23Mar2025 18:03:19.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
-[23Mar2025 18:03:58.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
-[23Mar2025 18:04:24.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
-[23Mar2025 18:05:14.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Diamonds!]
-[23Mar2025 18:05:15.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
-[23Mar2025 18:10:18.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
-[23Mar2025 18:10:26.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
-[23Mar2025 18:11:49.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7762ms or 155 ticks behind
-[23Mar2025 18:11:49.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha moved too quickly! -369.91840469517507,-57.92159999847412,373.6769703268342
-[23Mar2025 18:12:09.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha moved too quickly! 371.99497987747606,58.07840000152588,-373.11325678079555
-[23Mar2025 18:13:00.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [A Seedy Place]
-[23Mar2025 18:14:13.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was blown up by Creeper
-[23Mar2025 18:16:17.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was doomed to fall by sergiosssssss
-[23Mar2025 18:17:21.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Zombie
-[23Mar2025 18:19:32.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Zombie
-[23Mar2025 18:19:41.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
-[23Mar2025 18:20:07.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
-[23Mar2025 18:20:26.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
-[23Mar2025 18:20:26.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
-[23Mar2025 18:20:38.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Zombie
-[23Mar2025 18:21:17.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was blown up by Creeper
-[23Mar2025 18:21:35.223] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46833c96[id=<null>,name=caradesalchicha,properties={},legacy=false] (/127.54.255.13:35823) lost connection: Disconnected
-[23Mar2025 18:21:51.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
-[23Mar2025 18:21:51.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
-[23Mar2025 18:22:24.070] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@126e2a33[id=<null>,name=caradesalchicha,properties={},legacy=false] (/127.54.255.13:47913) lost connection: Disconnected
-[23Mar2025 18:22:43.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:58387] logged in with entity id 49291 at (-11.634271009481605, 32.0, 88.69999998807907)
-[23Mar2025 18:22:43.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
-[23Mar2025 18:22:43.615] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[23Mar2025 21:37:28.162] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[23Mar2025 21:37:28.192] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[23Mar2025 21:37:28.197] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[23Mar2025 21:37:28.206] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[23Mar2025 21:37:28.207] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[23Mar2025 21:37:28.222] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[23Mar2025 21:37:28.226] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[23Mar2025 21:37:28.235] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
+[23Mar2025 21:37:28.612] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1902 advancements
+[23Mar2025 21:37:28.653] [main/INFO] [Dungeon Crawl/]: Loading data...
+[23Mar2025 21:37:29.278] [main/INFO] [Dungeon Crawl/]: Done.
+[23Mar2025 21:37:29.309] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[23Mar2025 21:37:29.321] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[23Mar2025 21:37:29.338] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[23Mar2025 21:37:34.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[23Mar2025 21:37:34.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Mar2025 21:37:34.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Mar2025 21:37:34.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Mar2025 21:37:34.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Mar2025 21:37:34.747] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[23Mar2025 21:37:35.009] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23Mar2025 21:37:35.010] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23Mar2025 21:37:35.010] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23Mar2025 21:37:35.010] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23Mar2025 21:37:35.136] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[23Mar2025 21:37:35.137] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[23Mar2025 21:37:35.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Mar2025 21:37:46.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Mar2025 21:37:50.868] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[23Mar2025 21:37:56.933] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.067] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.155] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.213] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.240] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.342] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.397] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.462] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.491] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.529] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.585] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.626] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.638] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.662] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.693] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.723] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.763] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.774] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.783] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.813] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.861] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:57.931] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:58.431] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:58.915] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:37:59.409] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:38:00.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:38:00.418] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:38:00.910] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:38:01.410] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 21:38:01.909] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[23Mar2025 21:38:03.048] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 16140 ms
+[23Mar2025 21:38:03.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (28.004s)! For help, type "help"
+[23Mar2025 21:38:03.231] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Mar2025 21:38:05.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[23Mar2025 21:38:20.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:34491] logged in with entity id 215 at (8.455240422676797, 32.0, 63.19265464932268)
+[23Mar2025 21:38:20.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[23Mar2025 21:38:21.069] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[23Mar2025 21:38:24.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3522ms or 70 ticks behind
+[23Mar2025 21:38:46.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.167.8.25:45737] logged in with entity id 239 at (24.698315355593603, 30.0, 53.44483660941172)
+[23Mar2025 21:38:46.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[23Mar2025 21:38:47.134] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[23Mar2025 21:39:31.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
+[23Mar2025 21:39:31.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[23Mar2025 21:39:32.059] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Mar2025 21:39:33.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> discord
+[23Mar2025 21:39:57.438] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26bd9f3d[id=<null>,name=sergiosssssss,properties={},legacy=false] (/127.167.8.25:46759) lost connection: Disconnected
+[23Mar2025 21:40:04.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.167.8.25:36495] logged in with entity id 381 at (11.926172164247358, 31.240953559729178, 56.30706171843122)
+[23Mar2025 21:40:04.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[23Mar2025 21:40:05.002] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[23Mar2025 21:40:11.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> discord
+[23Mar2025 21:40:37.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> ayudeme a salir
+[23Mar2025 21:41:09.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> no tiene nada
+[23Mar2025 21:41:12.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Zombie
+[23Mar2025 21:42:35.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> tiene comida
+[23Mar2025 21:42:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> tiene las manzanas?
+[23Mar2025 21:42:59.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> no
+[23Mar2025 21:43:18.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> pa que lleva manzanas
+[23Mar2025 21:43:24.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> son muy importantes
+[23Mar2025 21:44:18.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: The difficulty has been set to Hard]
+[23Mar2025 21:44:30.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> discord
+[23Mar2025 21:45:21.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> discord
