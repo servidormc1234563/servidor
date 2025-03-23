@@ -327,3 +327,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Mar2025 22:02:31.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=21, z=-18} BlockPos{x=-7, y=23, z=-13}
 [23Mar2025 22:02:34.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=21, z=-18} BlockPos{x=-7, y=21, z=-13}
 [23Mar2025 22:02:35.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=21, z=-18} BlockPos{x=-6, y=23, z=-14}
+[23Mar2025 22:08:09.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
+[23Mar2025 22:08:22.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Mar2025 22:13:32.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
+[23Mar2025 22:13:32.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[23Mar2025 22:16:13.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[23Mar2025 22:16:13.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
