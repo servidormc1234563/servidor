@@ -409,3 +409,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Mar2025 17:03:13.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.167.8.25:44955] logged in with entity id 34035 at (-48.92213087269176, 68.0, 17.92306245094892)
 [23Mar2025 17:03:13.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
 [23Mar2025 17:03:13.723] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[23Mar2025 17:15:08.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Isn't It Iron Pick]
