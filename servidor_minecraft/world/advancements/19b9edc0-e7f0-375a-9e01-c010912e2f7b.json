@@ -2080,78 +2080,35 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "log_spam_fixer": "2025-03-23 21:47:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-23 21:47:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-23 21:47:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-03-23 21:47:10 +0000",
-      "log_spam_fixer": "2025-03-23 21:47:09 +0000"
+      "has_amethyst_shard": "2025-03-24 15:58:42 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
-      "log_spam_fixer": "2025-03-23 21:47:09 +0000"
+      "has_amethyst_shard": "2025-03-24 15:58:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
-      "log_spam_fixer": "2025-03-23 21:47:09 +0000"
+      "has_amethyst_shard": "2025-03-24 15:58:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
-      "log_spam_fixer": "2025-03-23 21:47:09 +0000"
+      "has_amethyst_shard": "2025-03-24 15:58:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
-      "log_spam_fixer": "2025-03-23 21:47:09 +0000"
+      "has_amethyst_shard": "2025-03-24 15:58:42 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-23 21:47:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-23 21:47:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-23 21:47:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-23 21:47:09 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
