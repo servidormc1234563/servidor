@@ -363,3 +363,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Mar2025 19:25:31.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved wrongly! 0.35262091019478703
 [24Mar2025 19:25:31.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved wrongly! 0.2951070561460938
 [24Mar2025 19:25:31.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved wrongly! 0.4502148611958603
+[24Mar2025 19:26:41.674] [Worker-Main-86/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24Mar2025 19:26:41.675] [Worker-Main-86/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24Mar2025 19:26:41.741] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_arise:foundry took 2856 ms
+[24Mar2025 19:26:41.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
+[24Mar2025 19:26:57.309] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-15, z=563}
+[24Mar2025 19:26:57.367] [Worker-Main-86/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=42, y=-21, z=573}
+[24Mar2025 19:26:57.370] [Worker-Main-86/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=41, y=-13, z=572}
+[24Mar2025 19:26:57.370] [Worker-Main-86/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=39, y=-9, z=574}
+[24Mar2025 19:26:57.371] [Worker-Main-86/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=42, y=-12, z=572}
+[24Mar2025 19:26:57.372] [Worker-Main-86/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=41, y=-12, z=572}
+[24Mar2025 19:27:01.992] [Worker-Main-85/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-21, z=564}
+[24Mar2025 19:27:01.994] [Worker-Main-85/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-14, z=566}
+[24Mar2025 19:27:15.358] [Worker-Main-107/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 19:27:15.373] [Worker-Main-107/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 19:27:15.374] [Worker-Main-107/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 19:27:15.381] [Worker-Main-107/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 19:27:15.382] [Worker-Main-107/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 19:27:15.392] [Worker-Main-107/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 19:27:15.393] [Worker-Main-107/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 19:27:15.412] [Worker-Main-107/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 19:27:40.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Under The Tide]
+[24Mar2025 19:29:58.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [You Are A Pirate]
+[24Mar2025 19:29:59.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[24Mar2025 19:30:04.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [You Are A Pirate]
+[24Mar2025 19:38:49.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Vindicator
+[24Mar2025 19:38:54.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Vindicator
+[24Mar2025 19:52:58.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Cover Me with Diamonds]
