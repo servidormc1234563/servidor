@@ -99,10 +99,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-03-24 18:54:44 +0000",
       "log_spam_fixer": "2025-03-22 23:01:40 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:adventure/root": {
     "criteria": {
@@ -2275,6 +2274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-03-24 19:00:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-03-24 18:48:40 +0000"
@@ -2368,6 +2373,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-03-24 18:48:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-24 19:03:52 +0000"
     },
     "done": true
   },
@@ -2488,6 +2499,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-03-24 18:44:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-24 19:03:52 +0000"
     },
     "done": true
   },
