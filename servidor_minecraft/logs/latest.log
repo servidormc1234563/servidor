@@ -294,3 +294,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Mar2025 15:59:00.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
 [24Mar2025 15:59:00.557] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
 [24Mar2025 16:12:11.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Suit Up]
+[24Mar2025 17:33:23.589] [Worker-Main-90/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[24Mar2025 17:33:23.597] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-132, y=116, z=93}
+[24Mar2025 17:33:23.600] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-130, y=116, z=92}
+[24Mar2025 17:33:23.602] [Worker-Main-90/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[24Mar2025 17:33:23.604] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-132, y=117, z=99}
+[24Mar2025 17:33:23.607] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-129, y=117, z=101}
+[24Mar2025 17:33:23.607] [Worker-Main-90/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[24Mar2025 17:33:23.608] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-128, y=116, z=99}
+[24Mar2025 17:33:34.947] [Worker-Main-86/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-352, y=77, z=-83}
+[24Mar2025 17:33:35.004] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-357, y=72, z=-86}
+[24Mar2025 17:33:35.007] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-360, y=76, z=-87}
+[24Mar2025 17:33:35.009] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-353, y=77, z=-86}
+[24Mar2025 17:33:35.009] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=71, z=-94}
