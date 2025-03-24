@@ -430,6 +430,7 @@
       "minecraft:spider": "2025-03-23 00:46:04 +0000",
       "minecraft:creeper": "2025-03-23 15:23:19 +0000",
       "minecraft:witch": "2025-03-23 00:43:55 +0000",
+      "minecraft:wither_skeleton": "2025-03-24 19:55:05 +0000",
       "minecraft:husk": "2025-03-24 18:35:06 +0000",
       "minecraft:zombie": "2025-03-23 00:28:43 +0000"
     },
@@ -2429,51 +2430,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "has_smooth_stone": "2025-03-24 18:33:31 +0000"
+      "entered_fishing_ship": "2025-03-24 18:24:10 +0000"
     },
-    "done": true
+    "done": false
   },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+  "dungeons_enhanced:root": {
     "criteria": {
-      "has_item": "2025-03-24 19:13:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:54:52 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/spawner_chestplate": {
-    "criteria": {
-      "has_spawner_frame": "2025-03-24 19:03:55 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
-    "criteria": {
-      "location0": "2025-03-24 19:30:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_glazed_terracotta": {
-    "criteria": {
-      "has_purple_terracotta": "2025-03-24 19:31:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-03-24 18:41:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:54:52 +0000"
+      "entered_fishing_ship": "2025-03-24 18:24:10 +0000"
     },
     "done": true
   },
@@ -2483,49 +2448,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_item": "2025-03-24 19:15:20 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:arborist": {
-    "criteria": {
-      "twilight_oak_planks": "2025-03-24 19:15:20 +0000",
-      "canopy_planks": "2025-03-24 19:35:52 +0000",
-      "twilight_oak_log": "2025-03-24 19:13:42 +0000",
-      "canopy_log": "2025-03-24 19:13:29 +0000",
-      "twilight_oak_boat": "2025-03-24 19:15:34 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/building_blocks/wood/canopy_slab": {
-    "criteria": {
-      "has_item": "2025-03-24 19:35:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_mushroom_stew": "2025-03-24 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:30:56 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/canopy_sign": {
-    "criteria": {
-      "has_item": "2025-03-24 19:35:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
-    "criteria": {
-      "has_item": "2025-03-24 19:15:20 +0000"
+      "has_paper": "2025-03-24 18:25:25 +0000"
     },
     "done": true
   },
@@ -2535,29 +2460,47 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/canopy_fence": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_item": "2025-03-24 19:35:52 +0000"
+      "has_netherrack": "2025-03-24 18:30:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_button": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_planks": "2025-03-24 19:54:52 +0000"
+      "has_smooth_stone": "2025-03-24 18:33:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/beehive": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "has_honeycomb": "2025-03-24 19:47:28 +0000"
+      "has_smooth_stone": "2025-03-24 18:33:31 +0000"
     },
     "done": true
   },
-  "dungeons_enhanced:ambitious_explorer": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
-      "entered_fishing_ship": "2025-03-24 18:24:10 +0000"
+      "has_smooth_stone": "2025-03-24 18:33:31 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-03-24 18:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-03-24 18:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-24 18:41:43 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
@@ -2571,81 +2514,9 @@
     },
     "done": true
   },
-  "dungeons_enhanced:root": {
-    "criteria": {
-      "entered_fishing_ship": "2025-03-24 18:24:10 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/spruce_banister": {
-    "criteria": {
-      "has_item": "2025-03-24 19:30:55 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/canopy_gate": {
-    "criteria": {
-      "has_item": "2025-03-24 19:35:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-03-24 18:40:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-03-24 18:41:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:31:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-03-24 18:33:31 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
-    "criteria": {
-      "has_item": "2025-03-24 19:15:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:30:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:54:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
-    "criteria": {
-      "has_item": "2025-03-24 19:15:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-03-24 18:33:31 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
-    "criteria": {
-      "has_item": "2025-03-24 19:13:42 +0000"
     },
     "done": true
   },
@@ -2655,231 +2526,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_planks": "2025-03-24 19:30:56 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/misc/spawner_frame": {
-    "criteria": {
-      "has_spawner_fragment": "2025-03-24 18:47:38 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/jungle_banister": {
-    "criteria": {
-      "has_item": "2025-03-24 19:34:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:54:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
-    "criteria": {
-      "has_item": "2025-03-24 19:15:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:31:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:31:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:30:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:54:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/canopy_bookshelf": {
-    "criteria": {
-      "has_item": "2025-03-24 19:35:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2025-03-24 19:39:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:30:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:31:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
-    "criteria": {
-      "has_item": "2025-03-24 19:15:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:31:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
-    "criteria": {
-      "has_item": "2025-03-24 19:15:20 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/canopy_stairs": {
-    "criteria": {
-      "has_item": "2025-03-24 19:35:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-03-24 19:07:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:31:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:30:56 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-03-24 19:39:43 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/canopy_door": {
-    "criteria": {
-      "has_item": "2025-03-24 19:35:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:30:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:30:56 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/spawner_leggings": {
-    "criteria": {
-      "has_spawner_frame": "2025-03-24 19:03:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:31:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/canopy_planks": {
-    "criteria": {
-      "has_item": "2025-03-24 19:13:29 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/canopy_chest": {
-    "criteria": {
-      "has_item": "2025-03-24 19:35:52 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/spawner_helmet": {
-    "criteria": {
-      "has_spawner_frame": "2025-03-24 19:03:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-03-24 19:31:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
-    "criteria": {
-      "has_item": "2025-03-24 19:13:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-03-24 18:25:25 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/canopy_trapdoor": {
-    "criteria": {
-      "has_item": "2025-03-24 19:35:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/canopy_button": {
-    "criteria": {
-      "has_item": "2025-03-24 19:35:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2025-03-24 18:51:41 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/canopy_plate": {
-    "criteria": {
-      "has_item": "2025-03-24 19:35:52 +0000"
+      "has_mushroom_stew": "2025-03-24 18:44:44 +0000"
     },
     "done": true
   },
@@ -2889,9 +2538,51 @@
     },
     "done": true
   },
-  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+  "dungeonnowloading:recipes/misc/spawner_frame": {
     "criteria": {
-      "has_item": "2025-03-24 19:15:20 +0000"
+      "has_spawner_fragment": "2025-03-24 18:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-03-24 18:51:41 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_chestplate": {
+    "criteria": {
+      "has_spawner_frame": "2025-03-24 19:03:55 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_leggings": {
+    "criteria": {
+      "has_spawner_frame": "2025-03-24 19:03:55 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_helmet": {
+    "criteria": {
+      "has_spawner_frame": "2025-03-24 19:03:55 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_blade": {
+    "criteria": {
+      "has_spawner_frame": "2025-03-24 19:03:55 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_boots": {
+    "criteria": {
+      "has_spawner_frame": "2025-03-24 19:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-24 19:07:56 +0000"
     },
     "done": true
   },
@@ -2901,21 +2592,85 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_sign": {
+  "twilightforest:arborist": {
     "criteria": {
-      "has_planks": "2025-03-24 19:54:52 +0000"
+      "twilight_oak_planks": "2025-03-24 19:15:20 +0000",
+      "canopy_planks": "2025-03-24 19:35:52 +0000",
+      "twilight_oak_log": "2025-03-24 19:13:42 +0000",
+      "canopy_log": "2025-03-24 19:13:29 +0000",
+      "twilight_oak_boat": "2025-03-24 19:15:34 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_planks": {
+    "criteria": {
+      "has_item": "2025-03-24 19:13:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
     "criteria": {
-      "has_planks": "2025-03-24 19:30:56 +0000"
+      "has_item": "2025-03-24 19:13:29 +0000"
     },
     "done": true
   },
-  "dungeonnowloading:recipes/misc/spawner_blade": {
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
     "criteria": {
-      "has_spawner_frame": "2025-03-24 19:03:55 +0000"
+      "has_item": "2025-03-24 19:13:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-03-24 19:13:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-03-24 19:15:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-03-24 19:15:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-03-24 19:15:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-03-24 19:15:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-03-24 19:15:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-03-24 19:15:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-03-24 19:15:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-03-24 19:15:20 +0000"
     },
     "done": true
   },
@@ -2931,21 +2686,123 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/spawner_boots": {
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
-      "has_spawner_frame": "2025-03-24 19:03:55 +0000"
+      "location0": "2025-03-24 19:30:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
-      "has_peony": "2025-03-24 18:35:43 +0000"
+      "has_item": "2025-03-24 19:30:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
-      "has_netherrack": "2025-03-24 18:30:39 +0000"
+      "has_planks": "2025-03-24 19:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-03-24 19:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:31:44 +0000"
     },
     "done": true
   },
@@ -2955,15 +2812,201 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
     "criteria": {
-      "has_honeycomb": "2025-03-24 19:47:28 +0000"
+      "has_item": "2025-03-24 19:34:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_slab": {
+    "criteria": {
+      "has_item": "2025-03-24 19:35:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_sign": {
+    "criteria": {
+      "has_item": "2025-03-24 19:35:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_fence": {
+    "criteria": {
+      "has_item": "2025-03-24 19:35:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_gate": {
+    "criteria": {
+      "has_item": "2025-03-24 19:35:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/canopy_bookshelf": {
+    "criteria": {
+      "has_item": "2025-03-24 19:35:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_stairs": {
+    "criteria": {
+      "has_item": "2025-03-24 19:35:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_door": {
+    "criteria": {
+      "has_item": "2025-03-24 19:35:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_chest": {
+    "criteria": {
+      "has_item": "2025-03-24 19:35:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_trapdoor": {
+    "criteria": {
+      "has_item": "2025-03-24 19:35:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_button": {
+    "criteria": {
+      "has_item": "2025-03-24 19:35:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_plate": {
+    "criteria": {
+      "has_item": "2025-03-24 19:35:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-24 19:39:43 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-03-24 19:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-03-24 19:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-03-24 19:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-03-24 19:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-03-24 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_cut_copper": "2025-03-24 20:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_weathered_cut_copper": "2025-03-24 20:00:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-03-24 20:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_weathered_cut_copper": "2025-03-24 20:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_cut_copper": "2025-03-24 20:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-03-24 20:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-24 20:00:54 +0000"
     },
     "done": true
   },

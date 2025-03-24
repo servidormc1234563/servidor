@@ -390,3 +390,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Mar2025 19:38:49.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Vindicator
 [24Mar2025 19:38:54.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Vindicator
 [24Mar2025 19:52:58.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Cover Me with Diamonds]
+[24Mar2025 19:58:25.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[24Mar2025 19:58:25.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[24Mar2025 19:59:43.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:57711] logged in with entity id 48203 at (-868.5403286882562, 153.5, 18.54045081571827)
+[24Mar2025 19:59:43.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[24Mar2025 19:59:43.627] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[24Mar2025 20:03:58.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> zzzzzzzzzzzzz
+[24Mar2025 20:04:14.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> zzzzzzzzzzz
+[24Mar2025 20:08:16.554] [Worker-Main-106/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[24Mar2025 20:08:20.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
