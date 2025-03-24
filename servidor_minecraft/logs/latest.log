@@ -308,3 +308,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Mar2025 17:33:35.009] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-353, y=77, z=-86}
 [24Mar2025 17:33:35.009] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=71, z=-94}
 [24Mar2025 17:34:57.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Shouldn't We Cook It First?]
+[24Mar2025 17:52:01.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:34557] logged in with entity id 18253 at (-39.78195330010401, 55.0, 6.3644728147584715)
+[24Mar2025 17:52:01.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[24Mar2025 17:52:01.416] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[24Mar2025 17:52:36.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> discord
+[24Mar2025 17:52:55.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: The difficulty has been set to Hard]
+[24Mar2025 17:53:32.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=70, z=-94} BlockPos{x=-47, y=68, z=-94}
+[24Mar2025 17:53:33.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=70, z=-94} BlockPos{x=-47, y=68, z=-94}
+[24Mar2025 17:53:36.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-45, y=70, z=-91} BlockPos{x=-46, y=68, z=-90}
+[24Mar2025 17:53:38.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> discordddddddddddddddddd

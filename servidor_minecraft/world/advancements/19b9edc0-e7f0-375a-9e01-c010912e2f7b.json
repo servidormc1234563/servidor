@@ -2145,6 +2145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-03-24 17:42:24 +0000"
+    },
+    "done": true
+  },
   "animatedmobsmod:shouldnt_we_cook_it_first": {
     "criteria": {
       "shouldnt_we_cook_it_first": "2025-03-24 17:34:57 +0000"
