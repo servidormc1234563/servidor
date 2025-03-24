@@ -326,3 +326,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Mar2025 18:47:46.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Ice Bucket Challenge]
 [24Mar2025 19:07:56.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [Ice Bucket Challenge]
 [24Mar2025 19:13:40.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[24Mar2025 19:20:52.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sergiosssssss) moved wrongly! 0.3488681562819451
+[24Mar2025 19:20:52.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sergiosssssss) moved wrongly! 0.38880132740521134
+[24Mar2025 19:20:52.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved wrongly! 0.6151451624540556
+[24Mar2025 19:20:52.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved wrongly! 0.3473499599669907
+[24Mar2025 19:20:52.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved wrongly! 0.6151451624540556
+[24Mar2025 19:20:52.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved wrongly! 0.4335006362375964
+[24Mar2025 19:21:20.938] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeonnowloading:labyrinth took 0 ms
+[24Mar2025 19:24:24.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[24Mar2025 19:25:21.567] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_arise:coliseum took 6231 ms
+[24Mar2025 19:25:21.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6209ms or 124 ticks behind
+[24Mar2025 19:25:21.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -7.85073671523503,0.0,-6.4948707970646105
+[24Mar2025 19:25:21.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -8.068297167630249,0.0,-6.814088693249363
+[24Mar2025 19:25:21.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -8.283075706160048,0.0,-7.136598169531618
+[24Mar2025 19:25:21.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -8.495215340805657,0.0,-7.462142576873521
+[24Mar2025 19:25:21.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -8.704854673055024,0.0,-7.790485026561991
+[24Mar2025 19:25:21.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -8.912135187561262,0.0,-8.121402960831679
+[24Mar2025 19:25:21.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -9.117190842212494,0.0,-8.454692195946585
+[24Mar2025 19:25:21.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -9.320155666028995,0.0,-8.790161616551416
+[24Mar2025 19:25:21.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -9.521156988785947,0.0,-9.127635478639506
+[24Mar2025 19:25:21.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -9.72031613328943,0.0,-9.466951928296945
+[24Mar2025 19:25:21.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -9.91775245637939,0.0,-9.807959906510003
+[24Mar2025 19:25:21.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -10.113576737557992,0.0,-10.150521604975365
+[24Mar2025 19:25:21.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -5.106467890240538,0.0,-8.873924026617527
+[24Mar2025 19:25:21.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -5.288178835865665,0.0,-9.228892074415974
+[24Mar2025 19:25:21.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -5.469414815479354,0.0,-9.584235954647616
+[24Mar2025 19:25:21.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -5.650213006640001,0.0,-9.939923172806719
+[24Mar2025 19:25:21.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -5.830606869149165,0.0,-10.295924480113609
+[24Mar2025 19:25:21.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -6.010629955270474,0.0,-10.65221185766019
+[24Mar2025 19:25:21.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -6.190312460177779,0.0,-11.008760084704553
+[24Mar2025 19:25:21.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -6.369681559526725,0.0,-11.365546462579584
+[24Mar2025 19:25:21.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -6.548761713269414,0.0,-11.722550562485418
+[24Mar2025 19:25:21.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -6.727578373805159,0.0,-12.07975230349558
+[24Mar2025 19:25:21.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -6.906151006124446,0.0,-12.437135304058515
+[24Mar2025 19:25:21.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved too quickly! -7.084500570886576,0.0,-12.79468312577113
+[24Mar2025 19:25:31.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved wrongly! 0.35262091019478703
+[24Mar2025 19:25:31.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved wrongly! 0.2951070561460938
+[24Mar2025 19:25:31.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caradesalchicha) moved wrongly! 0.4502148611958603
