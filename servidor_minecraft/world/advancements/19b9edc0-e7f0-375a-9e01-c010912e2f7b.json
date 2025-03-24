@@ -283,6 +283,7 @@
       "minecraft:skeleton": "2025-03-22 23:13:16 +0000",
       "minecraft:spider": "2025-03-22 23:06:31 +0000",
       "minecraft:creeper": "2025-03-23 16:21:20 +0000",
+      "minecraft:husk": "2025-03-24 18:36:14 +0000",
       "minecraft:enderman": "2025-03-23 01:50:19 +0000",
       "minecraft:zombie": "2025-03-22 23:07:24 +0000"
     },
@@ -2134,6 +2135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-24 18:39:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-03-24 18:24:55 +0000"
@@ -2143,6 +2150,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-03-24 17:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-03-24 18:42:16 +0000"
     },
     "done": true
   },
@@ -2177,9 +2190,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-24 18:39:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-03-24 17:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-24 18:39:29 +0000"
     },
     "done": true
   },
@@ -2192,6 +2217,12 @@
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2025-03-24 17:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-24 18:39:29 +0000"
     },
     "done": true
   },
@@ -2216,6 +2247,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-03-24 18:25:37 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-03-24 18:40:05 +0000"
     },
     "done": true
   },
@@ -2279,9 +2316,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-03-24 18:42:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-03-24 16:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-03-24 18:42:16 +0000"
     },
     "done": true
   },

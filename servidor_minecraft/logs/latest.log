@@ -320,3 +320,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Mar2025 18:25:08.895] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23880, l='ServerLevel[world]', x=-397.70, y=62.00, z=373.50] died, message: 'Unemployed was slain by sergiosssssss'
 [24Mar2025 18:28:21.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
 [24Mar2025 18:28:33.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[24Mar2025 18:36:54.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Husk
+[24Mar2025 18:37:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Husk
+[24Mar2025 18:41:25.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss fell from a high place
