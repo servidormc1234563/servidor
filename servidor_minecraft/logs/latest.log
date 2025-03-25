@@ -293,3 +293,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [25Mar2025 00:34:35.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
 [25Mar2025 00:34:35.959] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
 [25Mar2025 00:34:45.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
+[25Mar2025 00:51:58.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Mar2025 00:51:58.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Mar2025 00:51:58.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Mar2025 00:51:59.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Mar2025 00:51:59.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Mar2025 00:51:59.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[25Mar2025 00:51:59.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Mar2025 00:51:59.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[25Mar2025 00:51:59.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[25Mar2025 00:51:59.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Mar2025 00:51:59.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Mar2025 00:51:59.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[25Mar2025 00:51:59.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Mar2025 00:51:59.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[25Mar2025 00:51:59.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[25Mar2025 00:51:59.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Mar2025 00:51:59.548] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
